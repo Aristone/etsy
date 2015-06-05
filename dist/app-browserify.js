@@ -1,1 +1,1 @@
-
+console.error("SyntaxError: /Users/aristonlewis/Github Projects/etsy/js/app-browserify.js: Unexpected token (29:18) while parsing file: /Users/aristonlewis/Github Projects/etsy/js/app-browserify.js");
